@@ -1,6 +1,7 @@
 # Plan Leaf Classification Based on Machine Learning Methods
 
 This project is a contributing between me and [@Dhuha1996](https://github.com/Dhuha1996)
+
 for Research Methodologies course. 
 
 Special Thanks for Prof. Alaa Sagheer for his continuous support.
@@ -8,7 +9,9 @@ Special Thanks for Prof. Alaa Sagheer for his continuous support.
 ## Getting Started
 
 You can run the notebook yourself in a[Binder](https://mybinder.org). 
+
 by simply paste the link of this repository https://github.com/muneerah1992/Leaf-Classification in the GitHub repository name or URL field. 
+
 Click the Launch button to get your own Jupyter Notebook server with all the prereqs installed
 
 #### Run Jupyter in desktop
