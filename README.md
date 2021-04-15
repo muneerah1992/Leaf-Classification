@@ -1,24 +1,24 @@
-# Leaf Classification Based on Machine Learning Methods
+# Plan Leaf Classification Based on Machine Learning Methods
+
+This project is a contributing between me and @Dhuha1996
+for Research Methodologies course. 
+
+Special Thanks for Prof. Alaa Sagheer for giving us the opportunity 
+to work on this project and develop our skills and for his continuous support.
 
 ## Getting Started
 
-You can run the notebooks yourself in a Binder. 
-Click the Launch Binder badge above to get your own Jupyter Notebook server with all the prereqs installed.
+You can run the notebook yourself in a[Binder](https://mybinder.org). 
+by simply paste the link of this repository https://github.com/muneerah1992/Leaf-Classification in the GitHub repository name or URL field. 
+Click the Launch button to get your own Jupyter Notebook server with all the prereqs installed
 
+#### Run Jupyter in desktop
 
+The instructions of how to run the notebook in your desktop can be found [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
-### Installing Dependencies
-
-
-#### PIP Dependencies
-
-Once you have your virtual environment setup and running, install dependencies by naviging to the `/backend` directory and running:
+Once you have the notebook setup and running, install the miising packages by running this line:
 
 ```bash
-pip install -r requirements.txt
+!pip install package-name
 ```
-
-This will install all of the required packages we selected within the `requirements.txt` file.
-
-## Running the server
-
+all the requires packages can be found in requirements.txt
