@@ -8,7 +8,7 @@ Special Thanks for Prof. Alaa Sagheer for his continuous support.
 
 ## Getting Started
 
-You can run the notebook yourself in a[Binder](https://mybinder.org). 
+You can run the notebook yourself in a [Binder](https://mybinder.org). 
 
 by simply paste the link of this repository https://github.com/muneerah1992/Leaf-Classification in the GitHub repository name or URL field. 
 
