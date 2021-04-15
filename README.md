@@ -1,10 +1,9 @@
 # Plan Leaf Classification Based on Machine Learning Methods
 
-This project is a contributing between me and @Dhuha1996
+This project is a contributing between me and [@Dhuha1996](https://github.com/Dhuha1996)
 for Research Methodologies course. 
 
-Special Thanks for Prof. Alaa Sagheer for giving us the opportunity 
-to work on this project and develop our skills and for his continuous support.
+Special Thanks for Prof. Alaa Sagheer for his continuous support.
 
 ## Getting Started
 
