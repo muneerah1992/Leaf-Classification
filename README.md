@@ -2,9 +2,9 @@
 
 This project is a contributing between me and [@Dhuha1996](https://github.com/Dhuha1996)
 
-for Research Methodologies course. 
+for Application of AI course. 
 
-Special Thanks for Prof. Alaa Sagheer for his continuous support.
+Special Thanks for DR. Raid Alzubi for his continuous support.
 
 ## Getting Started
 
