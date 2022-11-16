@@ -1,4 +1,4 @@
-# Plan Leaf Classification Based on Machine Learning Methods
+# Plant Leaf Classification Based on Machine Learning Methods
 
 This project is a contributing between me and [@Dhuha1996](https://github.com/Dhuha1996)
 
